@@ -17,9 +17,9 @@ The **Asioso** project is a Java-based web application developed using **Spring 
 ### Key Features:
 - **RESTful API**: Exposes an endpoint that returns product data. The product information is fetched from the backend and served via a REST service.
 - **Frontend**: Displays product listing and detailed product pages using Thymeleaf templates integrated with Spring Boot.
-- **Error Handling**: Global exception handler to catch and display errors in a user-friendly format.
-- **Unit Testing**: Unit tests are implemented for critical code components to ensure application reliability.
-- **CI/CD**: Integrated GitHub Actions for continuous integration to automate testing and deployment.
+- **Error Handling**: Implements a global exception handler to catch and display errors in a user-friendly format.
+- **Unit Testing**: Critical code components are covered by unit tests to ensure application reliability.
+- **CI/CD**: Uses GitHub Actions for continuous integration to automate testing and deployment.
 
 ## Running the Application Locally
 
